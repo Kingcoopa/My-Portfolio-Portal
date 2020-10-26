@@ -1,18 +1,12 @@
 * {
     margin: 0;
-    padding: o;
+    padding: 0;
     box-sizing: border-box;
     text-decoration: none;
 
 }
 
 /* navigation-bar styling*/
-.max-width{
-    max-width: 1300px;
-    padding: 0 80px;
-    margin: auto;
-
-}
 
 .navigation-bar {
     position: fixed;
@@ -31,10 +25,22 @@
 
 }
 
+.nav-container{
+    display: flex;
+    max-width: 90%;
+    margin: 0 auto;
+    align-items: center;
+    justify-content: space-between;
+}
+
 .navigation-bar .logo a{
     color: black;
-    font-size: 40px;
+    font-size: 45px;
     font-weight: 700;
+}
+
+.foli {
+    color: white;
 }
 
 .navigation-bar .menu li{
@@ -43,9 +49,11 @@
 
 }
 
+li {
+    margin-left: 25px;
+}
 .navigation-bar .menu li a{
     color: white;
     font-size: 18px;
     font-weight: 500;
-    margin-left: 25px;
 }
