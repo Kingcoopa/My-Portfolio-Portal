@@ -76,6 +76,7 @@ li {
 
 .home .nav-container{
     margin: auto 0 auto 40px;
+    max-width: 40%;
 }
 
 .home .home-content .text-1{
@@ -96,4 +97,29 @@ li {
 .home .home-content .text-3 span{
     color: rgb(221, 123, 10);
     font-weight: 500;
+}
+
+/* responsive media query start */
+@media (max-width: 950px){
+    .max-width{
+        padding: 0 50px;
+    }
+    .navigation-bar .menu{
+        position: fixed;
+        height: 100vh;
+        width: 100%;
+        left: 0;
+        top: 0;
+        background: rgba(70, 1, 33, 0.815);
+        text-align: center;
+        padding-top: 80px;
+    }
+    .navigation-bar .menu li{
+            display: inline;
+    }
+    .navigation-bar .menu li a{
+        display: inline-block;
+        margin: 20px 0;
+        font-size: 25px;
+
 }
