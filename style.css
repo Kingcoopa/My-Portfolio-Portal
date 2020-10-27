@@ -60,6 +60,10 @@ li {
 .navigation-bar .menu li a:hover{
     color: rgb(230, 7, 7);
 }
+.foli:hover{
+    color: rgb(230, 7, 7);
+}
+
 
 /* Styling of the "Home" Section and addition of the BackGround image */
 .home {
@@ -121,5 +125,6 @@ li {
         display: inline-block;
         margin: 20px 0;
         font-size: 25px;
-
-}
+        text-shadow: black;
+    }
+      }
