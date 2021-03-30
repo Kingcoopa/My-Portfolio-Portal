@@ -15,6 +15,12 @@ My main focus is to have the best chances when I enter the industry of web devel
 
 <img width="214" alt="Website Screen Shots" src="Images/2020-11-03 (2).png">
 
+## License
+
+![License badge](https://img.shields.io/badge/License-MIT-green)
+
+Copyright (c) 2021 Wilkinson John Williams
+
 ### Contact Me
 
 <a href="mailto:srawilkinsonwilliams@yahoo.com"> Wilkinson Williams </a>
