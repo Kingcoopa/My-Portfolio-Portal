@@ -501,8 +501,9 @@ section{
 }
 
 .Ph1 {
-    font-size: 25px;
-    color: rgb(226, 6, 215);
+    font-size: 29px;
+    font-weight: 600;
+    color: rgb(117, 75, 214);
 }
 
 .info li a:hover {
