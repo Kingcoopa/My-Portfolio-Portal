@@ -385,22 +385,21 @@ section{
 .project1 {
     background: linear-gradient(rgba(0, 0, 0, 0.50), rgba(0, 0, 0, 0.10)),
     url(../Images/2020-11-01\ \(2\).png);
-    object-fit: cover;
 }
 
 .project2 {
     background: linear-gradient(rgba(0, 0, 0, 0.50), rgba(0, 0, 0, 0.10)),
-    url(../Images/ServiceSplash.jpg)
+    url(../Images/ServiceSplash.jpg) -200px -200px;
 }
 
 .project3 {
     background: linear-gradient(rgba(0, 0, 0, 0.50), rgba(0, 0, 0, 0.10)),
-    url(../Images/Weather.jpg)
+    url(../Images/Weather.jpg) -590px -20px;
 }
 
 .project4 {
     background: linear-gradient(rgba(0, 0, 0, 0.50), rgba(0, 0, 0, 0.10)),
-    url(../Images/Tripper.jpg)
+    url(../Images/Tripper.jpg) -590px -20px;
 }
 
 .project5 {
