@@ -384,7 +384,8 @@ section{
 
 .project1 {
     background: linear-gradient(rgba(0, 0, 0, 0.50), rgba(0, 0, 0, 0.10)),
-    url(../Images/2020-11-01\ \(2\).png)
+    url(../Images/2020-11-01\ \(2\).png);
+    object-fit: cover;
 }
 
 .project2 {
